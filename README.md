@@ -1,6 +1,6 @@
 <!-- Banner de destaque -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Guilherme%20Regio&fontSize=50&fontAlign=50&fontColor=ffffff&desc=Transformando%20Tecnologia%20em%20Resultados%20de%20Negócio&descAlign=51&descAlignY=65" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=280&section=header&text=Guilherme%20Regio&fontSize=60&fontAlign=50&fontColor=ffffff&fontAlignY=35&desc=Transformando%20Tecnologia%20em%20Resultados%20de%20Negócio&descAlign=51&descAlignY=55&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Header"/>
 </p>
 
 <div align="center">
@@ -114,29 +114,6 @@
 
 > *"A liderança técnica do Guilherme foi fundamental para alcançarmos 99.9% de uptime em nossos sistemas críticos. Altamente recomendado!"*  
 > **— Maria Santos, Gerente de TI | Enterprise Solutions**
-
----
-
-## 🎯 **VAMOS CONVERSAR?**
-
-<div align="center">
-
-### 🤝 **Interessado em colaboração, consultoria ou oportunidades?**
-
-**📧 Entre em contato:**
-- 💼 [LinkedIn: Guilherme Regio](https://www.linkedin.com/in/guilherme-regio-oliveira/)
-- ✉️ [Email: guilhermeregio02@outlook.com](mailto:guilhermeregio02@outlook.com)
-- 🐙 [GitHub: @GuilhermeRegio](https://github.com/GuilhermeRegio)
-
-### 🌟 **Áreas de interesse:**
-```
-🔹 Transformação Digital & Cloud Migration
-🔹 DevOps & Site Reliability Engineering (SRE)  
-🔹 Automação de Infraestrutura & CI/CD
-🔹 Consultoria Técnica & Mentoria
-🔹 Projetos Open Source & Inovação
-```
-</div>
 
 ---
 
