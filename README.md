@@ -1,25 +1,6 @@
 <!-- Banner de destaque -->
 <p align="center">
-  <img src="https://capsule-rend## 🏆 **PROJETOS DESENVOLVIDOS**
-
-<div align="center">
-
-| 🚀 **Projeto** | 📝 **Descrição** | 🎯 **Tecnologias** | 🔗 **Status** |
-|:---|:---|:---|:---|
-| **🏢 RAT Online** | **Sistema web** para substituir controle Excel de ativos TI com integração LDAP | **PHP + jQuery + MySQL + LDAP** | ✅ Finalizado |
-| **🐧 Deploy Automatizado** | **Automação Python** para configuração de imagens Linux/Windows com drivers e rede | **Python + Shell Script + APIs** | 🔄 Em produção |
-| **📋 AssethHub** | **Portal Laravel** para gestão de ativos integrado com automações Python | **Laravel + PHP + APIs + MySQL** | 🔄 Ativo |
-| **🖥️ Templates Corporativos** | **Padronização** de imagens Ubuntu 20.04 para terminais (PDV, consulta, gerência) | **Linux + Docker + Automação** | ✅ Implementado |
-
-</div>
-
-### 🎖️ **Formação & Certificações**
-```
-🎓 SysAdmin Linux - 4Linux (2023)
-🎓 Python Avançado - 4Linux (2023)  
-🏢 RaiaDrogasil via Quallit IT (2019-atual)
-📚 Menor Aprendiz → Suporte TI → Gestão de Ativos → PJ
-```/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=280&section=header&text=Guilherme%20Regio&fontSize=60&fontAlign=50&fontColor=ffffff&fontAlignY=35&desc=Transformando%20Tecnologia%20em%20Resultados%20de%20Negócio&descAlign=51&descAlignY=55&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=280&section=header&text=Guilherme%20Regio&fontSize=60&fontAlign=50&fontColor=ffffff&fontAlignY=35&desc=Transformando%20Tecnologia%20em%20Resultados%20de%20Negócio&descAlign=51&descAlignY=55&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Header"/>
 </p>
 
 <div align="center">
@@ -96,23 +77,30 @@
 
 ---
 
-## 🏆 **PROJETOS DE DESTAQUE**
+## 🏆 **PROJETOS DESENVOLVIDOS**
 
 <div align="center">
 
-| 🚀 **Projeto** | 📝 **Descrição** | 🎯 **Impacto** | 🔗 **Link** |
+| 🚀 **Projeto** | 📝 **Descrição** | 🎯 **Tecnologias** | 🔗 **Status** |
 |:---|:---|:---|:---|
-| **🏢 AssethHub** | **Plataforma corporativa** de gerenciamento inteligente de ativos de TI com automação avançada | **ROI 300%** em 6 meses | [� Repositório](https://github.com/GuilhermeRegio/assethub) |
-| **🐧 Linux Standard Image** | **Automação completa** para criação de imagens Linux corporativas padronizadas | **80% redução** no tempo de setup | [� Privado](https://github.com/quallitdesenv/rdfarm-osimage-frmlnxstd) |
+| **🏢 RAT Online** | **Sistema web** para substituir controle Excel de ativos TI com integração LDAP | **PHP + jQuery + MySQL + LDAP** | ✅ Finalizado |
+| **🐧 Deploy Automatizado** | **Automação Python** para configuração de imagens Linux/Windows com drivers e rede | **Python + Shell Script + APIs** | 🔄 Em produção |
+| **📋 AssethHub** | **Portal Laravel** para gestão de ativos integrado com automações Python | **Laravel + PHP + APIs + MySQL** | 🔄 Ativo |
+| **🖥️ Templates Corporativos** | **Padronização** de imagens Ubuntu 20.04 para terminais (PDV, consulta, gerência) | **Linux + Docker + Automação** | ✅ Implementado |
+
 </div>
 
-### 🎖️ **Certificações & Reconhecimentos**
+### 🎖️ **Formação & Certificações**
 ```
+🎓 SysAdmin Linux - 4Linux (2023)
+🎓 Python Avançado - 4Linux (2023)  
+🏢 RaiaDrogasil via Quallit IT (2019-atual)
+📚 Menor Aprendiz → Suporte TI → Gestão de Ativos → PJ
 ```
 
 ---
 
-## � **MÉTRICAS & PERFORMANCE**
+## 📊 **MÉTRICAS & PERFORMANCE**
 
 <div align="center">
 
