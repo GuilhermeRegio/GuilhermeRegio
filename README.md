@@ -6,17 +6,17 @@
 <div align="center">
   
   <!-- Badges de impacto -->
-  <img src="https://img.shields.io/badge/Experiência-10%2B%20Anos-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Projetos%20Entregues-20%2B-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Experiência-6%2B%20Anos-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Projetos%20Entregues-8%2B-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
   <img src="https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>
   
   <br><br>
   
   <!-- Links de contato -->
-  <a href="https://www.linkedin.com/in/guilhermeregio/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-regio-oliveira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:guilhermeregio002@outlook.com" target="_blank">
+  <a href="mailto:guilhermeregio02@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/GuilhermeRegio" target="_blank">
@@ -36,11 +36,10 @@
 
 > **"Líder técnico especialista em transformação digital, com foco em automação e infraestrutura de missão crítica"**
 
-🔹 **+10 anos** de experiência em gestão de projetos de automação e DevOps  
+🔹 **+6 anos** de experiência em gestão de projetos de automação e DevOps  
 🔹 **Especialista** em infraestrutura Linux, containers e orquestração  
 🔹 **Track record** comprovado em redução de custos operacionais  
 🔹 **Expertise** em CI/CD, governança e segurança corporativa  
-🔹 **Certificações** em tecnologias cloud e open-source  
 
 ### 💼 **Resultados de Impacto:**
 - ✅ **35% de redução** em custos operacionais de TI
@@ -59,15 +58,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### **☁️ Cloud & Automação**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### **💻 Desenvolvimento & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -75,12 +65,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### **📊 Monitoramento & Observabilidade**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
 
 </div>
 
@@ -94,18 +78,10 @@
 |:---|:---|:---|:---|
 | **🏢 AssethHub** | **Plataforma corporativa** de gerenciamento inteligente de ativos de TI com automação avançada | **ROI 300%** em 6 meses | [� Repositório](https://github.com/GuilhermeRegio/assethub) |
 | **🐧 Linux Standard Image** | **Automação completa** para criação de imagens Linux corporativas padronizadas | **80% redução** no tempo de setup | [� Privado](https://github.com/quallitdesenv/rdfarm-osimage-frmlnxstd) |
-| **☁️ Cloud Infrastructure** | **Orquestração multi-cloud** com Terraform e Ansible para ambientes críticos | **99.9% uptime** garantido | [� Privado](https://github.com/quallitdesenv/rdcorp-osimage-mtzlnxstd) |
-| **🖥️ Windows Enterprise** | **Governança automatizada** para ambientes Windows corporativos | **50% menos** tickets de suporte | [� Privado](https://github.com/quallitdesenv/rdcorp-osimage-mtzwinstd) |
-
 </div>
 
 ### 🎖️ **Certificações & Reconhecimentos**
 ```
-🏅 AWS Certified Solutions Architect
-🏅 Microsoft Azure DevOps Engineer Expert  
-🏅 Docker Certified Associate
-🏅 Red Hat Certified Engineer (RHCE)
-🏅 Kubernetes Administrator (CKA)
 ```
 
 ---
@@ -148,8 +124,8 @@
 ### 🤝 **Interessado em colaboração, consultoria ou oportunidades?**
 
 **📧 Entre em contato:**
-- 💼 [LinkedIn: Guilherme Regio](https://www.linkedin.com/in/guilhermeregio/)
-- ✉️ [Email: guilhermeregio002@outlook.com](mailto:guilhermeregio002@outlook.com)
+- 💼 [LinkedIn: Guilherme Regio](https://www.linkedin.com/in/guilherme-regio-oliveira/)
+- ✉️ [Email: guilhermeregio02@outlook.com](mailto:guilhermeregio02@outlook.com)
 - 🐙 [GitHub: @GuilhermeRegio](https://github.com/GuilhermeRegio)
 
 ### 🌟 **Áreas de interesse:**
@@ -160,9 +136,6 @@
 🔹 Consultoria Técnica & Mentoria
 🔹 Projetos Open Source & Inovação
 ```
-
-**💡 "Sempre aberto a novos desafios e oportunidades de crescimento mútuo!"**
-
 </div>
 
 ---
