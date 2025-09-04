@@ -1,14 +1,33 @@
 <!-- Banner de destaque -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=280&section=header&text=Guilherme%20Regio&fontSize=60&fontAlign=50&fontColor=ffffff&fontAlignY=35&desc=Transformando%20Tecnologia%20em%20Resultados%20de%20Negócio&descAlign=51&descAlignY=55&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Header"/>
+  <img src="https://capsule-rend## 🏆 **PROJETOS DESENVOLVIDOS**
+
+<div align="center">
+
+| 🚀 **Projeto** | 📝 **Descrição** | 🎯 **Tecnologias** | 🔗 **Status** |
+|:---|:---|:---|:---|
+| **🏢 RAT Online** | **Sistema web** para substituir controle Excel de ativos TI com integração LDAP | **PHP + jQuery + MySQL + LDAP** | ✅ Finalizado |
+| **🐧 Deploy Automatizado** | **Automação Python** para configuração de imagens Linux/Windows com drivers e rede | **Python + Shell Script + APIs** | 🔄 Em produção |
+| **📋 AssethHub** | **Portal Laravel** para gestão de ativos integrado com automações Python | **Laravel + PHP + APIs + MySQL** | 🔄 Ativo |
+| **🖥️ Templates Corporativos** | **Padronização** de imagens Ubuntu 20.04 para terminais (PDV, consulta, gerência) | **Linux + Docker + Automação** | ✅ Implementado |
+
+</div>
+
+### 🎖️ **Formação & Certificações**
+```
+🎓 SysAdmin Linux - 4Linux (2023)
+🎓 Python Avançado - 4Linux (2023)  
+🏢 RaiaDrogasil via Quallit IT (2019-atual)
+📚 Menor Aprendiz → Suporte TI → Gestão de Ativos → PJ
+```/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=280&section=header&text=Guilherme%20Regio&fontSize=60&fontAlign=50&fontColor=ffffff&fontAlignY=35&desc=Transformando%20Tecnologia%20em%20Resultados%20de%20Negócio&descAlign=51&descAlignY=55&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Header"/>
 </p>
 
 <div align="center">
   
   <!-- Badges de impacto -->
-  <img src="https://img.shields.io/badge/Experiência-6%2B%20Anos-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Projetos%20Entregues-8%2B-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
-  <img src="https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>
+  <img src="https://img.shields.io/badge/Desde-2019-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Projetos%20Reais-3%2B-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Especialidade-Automação-success?style=for-the-badge&logo=gear&logoColor=white" alt="Specialty"/>
   
   <br><br>
   
@@ -32,21 +51,22 @@
 
 ---
 
-## 🎯 **PERFIL EXECUTIVO**
+## 🎯 **PERFIL PROFISSIONAL**
 
-> **"Líder técnico especialista em transformação digital, com foco em automação e infraestrutura de missão crítica"**
+> **"Desenvolvedor especialista em automação e gestão de ativos, com foco em soluções práticas para infraestrutura corporativa"**
 
-🔹 **+6 anos** de experiência em gestão de projetos de automação e DevOps  
-🔹 **Especialista** em infraestrutura Linux, containers e orquestração  
-🔹 **Track record** comprovado em redução de custos operacionais  
-🔹 **Expertise** em CI/CD, governança e segurança corporativa  
+🔹 **Desde 2019** na RaiaDrogasil via Quallit IT (menor aprendiz → PJ)  
+🔹 **Criador** do sistema RAT Online (PHP + jQuery + LDAP)  
+🔹 **Especialista** em deploy automatizado Python para Linux/Windows  
+🔹 **Desenvolvedor** do portal AssethHub (Laravel) para automação de gestão de ativos  
+🔹 **Certificado** em SysAdmin Linux pela 4Linux  
 
-### 💼 **Resultados de Impacto:**
-- ✅ **35% de redução** em custos operacionais de TI
-- ✅ **99.9% de uptime** em ambientes críticos
-- ✅ **+8 projetos** entregues para grandes corporações
-- ✅ **Zero downtime** em migrações complexas
-- ✅ **40% de aumento** na velocidade de deploy
+### 💼 **Conquistas Reais:**
+- ✅ **Criou sistema** que substituiu controle Excel por solução web completa
+- ✅ **Desenvolveu deploy** automatizado que revolucionou a infraestrutura
+- ✅ **Migrou empresa** de Windows-only para híbrido Linux/Windows
+- ✅ **Automatizou configuração** de hostname, rede e drivers
+- ✅ **Integrou** Python + APIs + Laravel em ecossistema corporativo
 
 ---
 
@@ -54,17 +74,23 @@
 
 <div align="center">
 
-### **🐧 Infraestrutura & DevOps**
+### **🐧 Infraestrutura & Sistemas**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=black)
 
-### **💻 Desenvolvimento & Scripting**
+### **💻 Desenvolvimento**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### **🔧 Ferramentas & Protocolos**
+![LDAP](https://img.shields.io/badge/LDAP-6A4C93?style=for-the-badge&logo=ldap&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-EE7203?style=for-the-badge&logo=glpi&logoColor=white)
+![API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -90,30 +116,73 @@
 
 <div align="center">
 
-### **📈 GitHub Analytics**
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRegio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRegio&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+### **📈 Estatísticas GitHub**
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRegio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&card_width=400" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRegio&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=400" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
-### **🔥 Streak & Activity**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeRegio&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa500&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+### **🔥 Sequência de Contribuições**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeRegio&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa500&currStreakLabel=58a6ff" alt="GitHub Streak" width="650"/>
 
-### **🏆 GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=GuilhermeRegio&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+### **🏆 Conquistas GitHub**
+<img src="https://github-profile-trophy.vercel.app/?username=GuilhermeRegio&theme=onestar&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="600"/>
 
-### **📈 Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeRegio&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa500&area=true&hide_border=true" alt="Contribution Graph"/>
+### **📈 Gráfico de Atividade Anual**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeRegio&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa500&area=true&hide_border=true&height=350" alt="Contribution Graph" width="900"/>
+
+### **📊 Métricas Adicionais**
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/github/followers/GuilhermeRegio?style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers"/>
+<br><strong>👥 Seguidores</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/github/stars/GuilhermeRegio?style=for-the-badge&color=ffa500&labelColor=0d1117" alt="Stars"/>
+<br><strong>⭐ Stars Total</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://komarev.com/ghpvc/?username=GuilhermeRegio&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Profile Views"/>
+<br><strong>👀 Visualizações</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💡 **DEPOIMENTOS & RECOMENDAÇÕES**
+## 💡 **TRAJETÓRIA PROFISSIONAL**
 
-> *"Guilherme é um profissional excepcional que consegue traduzir complexidades técnicas em resultados de negócio tangíveis. Sua expertise em automação transformou nossa operação."*  
-> **— João Silva, CTO | Tech Corp**
+### 🚀 **2019 - Início como Menor Aprendiz**
+- Entrou na **RaiaDrogasil** como menor aprendiz no time de Suporte TI
+- Responsável por suporte a software, hardware e onboarding
 
-> *"A liderança técnica do Guilherme foi fundamental para alcançarmos 99.9% de uptime em nossos sistemas críticos. Altamente recomendado!"*  
-> **— Maria Santos, Gerente de TI | Enterprise Solutions**
+### 💻 **2019-2021 - Desenvolvedor RAT Online**  
+- Identificou oportunidade de melhorar controle de ativos (Excel → Web)
+- Desenvolveu sistema **RAT Online** em PHP puro + jQuery + LDAP
+- **Efetivado** pela **Quallit IT** para manter o projeto
+
+### 🏢 **2021-2024 - Gestão de Ativos**
+- Convidado por **Carlos Oliveira** para nova área de Gestão de Ativos
+- Migração para **GLPI** e implementação do **Smartx**
+- Desenvolvimento de **automação de imagens** e templates
+
+### ⚙️ **2022-atual - Especialista em Deploy**
+- Criação do **deploy automatizado** em Python para Linux/Windows  
+- Automação de hostname, rede, drivers (impressoras, scanners, etc.)
+- Desenvolvimento do portal **AssethHub** (Laravel) integrado com APIs
+
+### 📈 **2024 - PJ Especializado**
+- Retorno como **PJ** pela Quallit mantendo as mesmas responsabilidades
+- Foco em **automações Python** e **gestão de ativos** corporativos
 
 ---
 
