@@ -1,6 +1,12 @@
 <!-- Banner de destaque -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:1B2631&height=280&section=header&text=Guilherme%20Regio&fontSize=60&fontAlign=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Infrastructure%20Automation%20Specialist&descAlign=51&descAlignY=55&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/ap### **Professional Development**
+```
+Linux System Administration - 4Linux Institute (2023)
+Advanced Python Development - 4Linux Institute (2023)  
+RaiaDrogasil via Quallit IT (2019-Present)
+Career Path: IT Support → Asset Management → Software Developer
+```rofessional Development**?## **PROFESSIONAL EXPERIENCE**ype=waving&color=0:2C3E50,50:34495E,100:1B2631&height=280&section=header&text=Guilherme%20Regio&fontSize=60&fontAlign=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Infrastructure%20Automation%20Specialist&descAlign=51&descAlignY=55&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Header"/>
 </p>
 
 <div align="center">
@@ -27,7 +33,7 @@
 
 ---
 
-## 👨‍💻 **PROFESSIONAL OVERVIEW**
+## **PROFESSIONAL OVERVIEW**
 
 **Software Developer** with **5+ years of experience** specializing in **infrastructure automation**, **asset management systems**, and **enterprise solutions**. Proven track record in developing full-stack applications and deployment automation for corporate environments.
 
@@ -35,7 +41,7 @@
 **Core Expertise:** Backend Development, Infrastructure Automation, Enterprise Integration  
 **Industry Focus:** IT Asset Management, Deployment Automation, System Integration  
 
-### 🎯 **Key Competencies**
+### **Key Competencies**
 - **Backend Development**: PHP, Python, Laravel framework
 - **Infrastructure**: Linux system administration, Docker containerization
 - **Database**: MySQL design and optimization
@@ -43,7 +49,7 @@
 - **Automation**: Deployment scripting, system configuration automation
 - **Asset Management**: GLPI administration, custom asset tracking solutions
 
-### 📈 **Professional Achievements**
+### **Professional Achievements**
 ```
 ✓ Developed enterprise asset management system replacing Excel-based workflows
 ✓ Created automated deployment solution for Linux/Windows environments  
@@ -54,7 +60,7 @@
 
 ---
 
-## 🛠️ **TECHNICAL STACK**
+## **TECHNICAL STACK**
 
 <div align="center">
 
@@ -80,7 +86,7 @@
 
 ---
 
-## 💼 **PROJECT PORTFOLIO**
+## **PROJECT PORTFOLIO**
 
 <div align="center">
 
@@ -103,7 +109,7 @@
 
 ---
 
-## 📊 **GITHUB ANALYTICS**
+## **GITHUB ANALYTICS**
 
 <div align="center">
 
@@ -151,9 +157,7 @@
 ---
 
 <div align="center">
-  
-  **💼 Open to new opportunities and professional challenges**
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:1B2631&height=120&section=footer" alt="Footer"/>
   
 </div>
