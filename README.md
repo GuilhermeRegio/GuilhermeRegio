@@ -1,12 +1,6 @@
 <!-- Banner de destaque -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/ap### **Professional Development**
-```
-Linux System Administration - 4Linux Institute (2023)
-Advanced Python Development - 4Linux Institute (2023)  
-RaiaDrogasil via Quallit IT (2019-Present)
-Career Path: IT Support → Asset Management → Software Developer
-```rofessional Development**?## **PROFESSIONAL EXPERIENCE**ype=waving&color=0:2C3E50,50:34495E,100:1B2631&height=280&section=header&text=Guilherme%20Regio&fontSize=60&fontAlign=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Infrastructure%20Automation%20Specialist&descAlign=51&descAlignY=55&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:1B2631&height=280&section=header&text=Guilherme%20Regio&fontSize=60&fontAlign=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Infrastructure%20Automation%20Specialist&descAlign=51&descAlignY=55&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="Header"/>
 </p>
 
 <div align="center">
@@ -99,12 +93,12 @@ Career Path: IT Support → Asset Management → Software Developer
 
 </div>
 
-### � **Professional Development**
+### **Professional Development**
 ```
-📋 Linux System Administration - 4Linux Institute (2023)
-📋 Advanced Python Development - 4Linux Institute (2023)  
-🏢 RaiaDrogasil via Quallit IT (2019-Present)
-� Career Path: IT Support → Asset Management → Software Developer
+Linux System Administration - 4Linux Institute (2023)
+Advanced Python Development - 4Linux Institute (2023)  
+RaiaDrogasil via Quallit IT (2019-Present)
+Career Path: IT Support → Asset Management → Software Developer
 ```
 
 ---
@@ -132,7 +126,7 @@ Career Path: IT Support → Asset Management → Software Developer
 
 ---
 
-## � **PROFESSIONAL EXPERIENCE**
+## **PROFESSIONAL EXPERIENCE**
 
 ### **Software Developer** | *Quallit IT* | *2021 - Present*
 **Client:** RaiaDrogasil (Brazil's largest pharmacy chain)
@@ -157,7 +151,9 @@ Career Path: IT Support → Asset Management → Software Developer
 ---
 
 <div align="center">
-
+  
+  **💼 Open to new opportunities and professional challenges**
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:1B2631&height=120&section=footer" alt="Footer"/>
   
 </div>
