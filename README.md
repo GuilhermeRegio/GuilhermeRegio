@@ -103,24 +103,46 @@ Career Path: IT Support → Asset Management → Software Developer
 
 ---
 
-## **GITHUB ANALYTICS**
+## **DEVELOPMENT METRICS & PORTFOLIO**
 
 <div align="center">
+
+### **Professional Development Statistics**
+```
+Total Professional Projects: 4+ Enterprise Applications
+Private Repository Portfolio: 15+ Internal Projects  
+Production Deployments: 200+ Automated Installations
+Code Languages: PHP, Python, JavaScript, Shell Script
+Database Projects: MySQL Enterprise Solutions
+Infrastructure: Linux, Docker, LDAP Integration
+```
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRegio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&card_width=400" alt="GitHub Statistics"/>
+
+**🏢 Enterprise Projects**
+- RAT Online System (Production)
+- Deployment Automation (Active)
+- AssethHub Portal (Development)
+- OS Template Standardization
+
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRegio&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=400" alt="Most Used Languages"/>
+
+**⚡ Technical Expertise**
+- Backend: PHP/Laravel, Python
+- Infrastructure: Linux, Docker
+- Database: MySQL optimization
+- Integration: LDAP, REST APIs
+
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeRegio&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa500&currStreakLabel=58a6ff" alt="GitHub Contribution Streak" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeRegio&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa500&currStreakLabel=58a6ff" alt="GitHub Activity" width="600"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeRegio&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa500&area=true&hide_border=true&height=300" alt="GitHub Activity Graph" width="800"/>
+**Note:** *Most development work is done in private enterprise repositories for RaiaDrogasil through Quallit IT. Public repositories represent personal projects and portfolio samples.*
 
 </div>
 
